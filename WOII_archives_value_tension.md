@@ -68,17 +68,13 @@
 
 ## 3. Technical Investigation Dealing with Value Tensions
 
-| Tension                         | Technische interventie                                                                 |
-|--------------------------------|----------------------------------------------------------------------------------------|
-| Privacy vs. Openbaarheid       | - Geanonimiseerde vrijgave  
-                                 - Login-gecontroleerde toegang  
-                                 - Uitgestelde vrijgave na 75–100 jaar                 |
-| Sociaal welzijn vs. Collectief geheugen   | - Educatieve context  
-                                 - Inhoudsfilters of sensitiviteitswaarschuwingen      |
-| Transparantie vs. Maatschappelijke rust   | - Transparantieprotocols  
-                                 - AI/NLP-analyse om gevoelige documenten te detecteren|
+| Tension                                | Technische interventie                                                                 |
+|----------------------------------------|----------------------------------------------------------------------------------------|
+| Privacy vs. Openbaarheid               | - Geanonimiseerde vrijgave <br> - Login-gecontroleerde toegang <br> - Uitgestelde vrijgave na 75–100 jaar |
+| Sociaal welzijn vs. Collectief geheugen| - Educatieve context en duiding <br> - Inhoudsfilters of waarschuwingen bij gevoelige data |
+| Transparantie vs. Maatschappelijke rust| - Transparantieprotocols met duidelijke uitzonderingsgronden <br> - AI/NLP-analyse om risicodocumenten te markeren |
 
----
+
 
 ## 4. Heatmap Value Tensions
 
